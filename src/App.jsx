@@ -46,7 +46,7 @@ export default function App() {
     title: "Full Stack Developer & Network Engineer",
     education: "BS in Computer Engineering",
     major: "Network Administration",
-    profileImage: "src/assets/profile.jpg",
+    profileImage: <img src="src/assets/profile.jpg" alt="" />,
     quote: "Winning is a bonus, learning is the ultimate goal.",
     about:
       "I am Francis, a dedicated Computer Engineering student with a strong focus on Full Stack Development and Network Systems. My expertise lies in building scalable web applications while ensuring high-availability network infrastructures. I am passionate about clean code, efficient algorithms, and the seamless integration of software and hardware. I am always updating my skills with new technologies to provide innovative solutions to complex engineering problems.",
