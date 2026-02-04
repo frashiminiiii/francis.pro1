@@ -86,7 +86,7 @@ export default function App() {
       tech: ["React", "Firebase"],
       desc: "IoT system for hardware tracking using dynamic QR codes. Designed for warehouse efficiency.",
       image:
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1200",
+        "src/assets/profile.jpg",
     },
     {
       id: 3,
