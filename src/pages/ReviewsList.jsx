@@ -27,11 +27,7 @@ export const ReviewsList = ({ reviews, onDelete }) => (
             key={r.id}
             className="bg-gray-900/60 border border-gray-800 p-6 rounded-3xl flex items-center gap-6 group backdrop-blur-md hover:border-teal-500/50 transition-all"
           >
-            <img
-              src={r.avatar}
-              alt={r.name}
-              className="w-12 h-12 rounded-xl border-2 border-teal-500/30"
-            />
+        
             <div className="flex-1">
               <div className="flex items-center gap-3 mb-1">
                 <h4 className="text-lg font-black text-white">{r.name}</h4>
