@@ -3,7 +3,6 @@ import { ChevronRight } from "lucide-react";
 
 export const Home = ({ profile }) => (
   <div className="relative flex flex-col items-center justify-center text-center min-h-[80vh] px-4 overflow-hidden pt-10">
-    
     <div className="absolute inset-0 flex flex-col justify-between pointer-events-none select-none overflow-hidden py-10 opacity-[0.15]">
       <div className="whitespace-nowrap flex animate-[marquee_15s_linear_infinite]">
         <span className="text-[10vw] font-black uppercase text-white tracking-tighter mx-4 italic">

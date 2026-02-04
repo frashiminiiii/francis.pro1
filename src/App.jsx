@@ -29,7 +29,7 @@ export default function App() {
           "Highly professional and skilled engineer. Francis has a keen eye for detail and delivers high-quality work on time.",
         rating: 5,
         avatar:
-          "https://ui-avatars.com/api/?name=Jasmine+Magnaye&background=0D9488&color=fff&bold=true",
+          "src/assets/profile.jpg",
         isPermanent: true,
       },
     ];
@@ -46,8 +46,7 @@ export default function App() {
     title: "Full Stack Developer & Network Engineer",
     education: "BS in Computer Engineering",
     major: "Network Administration",
-    profileImage:
-      "src/assets/profile.jpg",
+    profileImage: "src/assets/profile.jpg",
     quote: "Winning is a bonus, learning is the ultimate goal.",
     about:
       "I am Francis, a dedicated Computer Engineering student with a strong focus on Full Stack Development and Network Systems. My expertise lies in building scalable web applications while ensuring high-availability network infrastructures. I am passionate about clean code, efficient algorithms, and the seamless integration of software and hardware. I am always updating my skills with new technologies to provide innovative solutions to complex engineering problems.",
